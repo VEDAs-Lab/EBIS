@@ -14,5 +14,5 @@ We developed a new dataset comprising high-resolution burn images with varied il
 
 
 #### Download Link
-* If you want to access the dataset, please read the instructions in this <a href="https://github.com/VEDAs-Lab/EBIS/tree/main/commitments">folder</a> carefully, sign the corresponding commitment file and send it to vedas.cs@gmail.com. After receiving your request, we will rely with the download link soon.
+* If you want to access the dataset, please read the instructions in this <a href="https://github.com/VEDAs-Lab/EBIS/tree/main/commitments">folder</a> carefully, sign the corresponding commitment file and send it to vedas.cs@gmail.com. After receiving your request, we will reply with the download link soon.
 * Notice that **requests with unsatisfactory information will not be accepted.**
